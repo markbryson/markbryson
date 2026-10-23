@@ -89,6 +89,6 @@ The following experiences are job simulations, not employment roles.
 
 ## Currently Learning
 
-* Advanced machine learning, Generative AI, RAG, and NLP.
-* Advanced Python, SQL, and data engineering.
+* Advanced machine learning, Generative AI, RAG and NLP.
+* Advanced Python, SQL and data engineering.
 * Business intelligence and production application development.
